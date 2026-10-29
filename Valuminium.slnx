@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Valuminium/Valuminium.csproj" />
+  <Project Path="ValuminiumDTO/ValuminiumDTO.csproj" />
+</Solution>
